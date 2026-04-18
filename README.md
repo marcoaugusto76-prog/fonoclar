@@ -1,5 +1,7 @@
 # 🎙️ Fonoaudiologia Premium - Landing Page
 
+> 🔗 **Repositório Oficial:** [https://github.com/marcoaugusto76-prog/fonoclar.git](https://github.com/marcoaugusto76-prog/fonoclar.git)
+
 Esta é uma Landing Page moderna e sofisticada desenvolvida para clínicas e profissionais de Fonoaudiologia que buscam uma presença digital de alto impacto. O design foi projetado com foco em 2026, utilizando conceitos de **Bento Grid**, **Glassmorphism** e animações fluidas para transmitir confiança e acolhimento.
 
 ## ✨ Características
