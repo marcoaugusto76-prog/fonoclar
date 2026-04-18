@@ -35,7 +35,8 @@ Para visualizar o projeto em seu ambiente local como um site real:
    ```
    O site estará disponível em `http://localhost:5173/`.
 
-Alternativamente, você pode abrir o arquivo `index.html` diretamente em seu navegador para uma visualização rápida.
+Você também pode visualizar a versão publicada online em: [https://fonoclar.netlify.app/](https://fonoclar.netlify.app/)
+
 
 ## 📂 Estrutura de Arquivos
 
